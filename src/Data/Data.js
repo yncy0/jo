@@ -39,6 +39,6 @@ export const sample = [
     img: "src/assets/js.png",
     title: "JavaScript",
     description:
-      "Web Programming Language  The scripting language of the web that brings interactivity, logic, and dynamic features to websites.",
+      "Web Programming Language The scripting language of the web that brings interactivity, logic, and dynamic features to websites.",
   },
 ];
